@@ -1,0 +1,25 @@
+{
+    "personaltrainar": {
+        "userid": "xxx"
+    },
+    "traningstuts": {
+        "traning1stuts": "xxx",
+        "traning2stuts": "xxx",
+        "traning3stuts": "xxx"
+    },
+    "mitem": {
+        "traning1": {
+            "mtraningname": "xxx",
+            "mtraningnum": "xxx"
+        },
+        "traning2": {
+            "mtraningname": "xxx",
+            "mtraningnum": "xxx"
+        },
+        "traning3": {
+            "mtraningname": "xxx",
+            "mtraningnum": "xxx"
+        }
+    },
+    "referenceResultFlag": "xxx"
+}
